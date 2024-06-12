@@ -388,7 +388,7 @@ maxMarketOffersAtATimePerPlayer = 100
 -- MySQL
 mysqlHost = "45.91.137.235"
 mysqlUser = "root"
-mysqlPass = "Pulse2024."
+mysqlPass = "Tibiazeiro2024"
 mysqlDatabase = "otservbr-global"
 mysqlPort = 3306
 mysqlSock = ""
